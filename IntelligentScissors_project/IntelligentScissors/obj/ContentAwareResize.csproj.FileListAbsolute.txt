@@ -1,0 +1,24 @@
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\ContentAwareResize\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\Copy of ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\Copy of ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\Copy of ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\Copy of ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\Copy of ContentAwareResize\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\Copy of ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\Copy of ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\Copy of ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Content Aware Resize\[TEMPLATE] Not complete yet\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Content Aware Resize\[TEMPLATE] Not complete yet\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Content Aware Resize\[TEMPLATE] Not complete yet\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Content Aware Resize\[TEMPLATE] Not complete yet\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Content Aware Resize\[TEMPLATE] Not complete yet\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Content Aware Resize\[TEMPLATE] Not complete yet\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Content Aware Resize\[TEMPLATE] Not complete yet\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Content Aware Resize\[TEMPLATE] Not complete yet\ContentAwareResize\bin\Debug\ContentAwareResize.pdb

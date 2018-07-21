@@ -45,10 +45,10 @@ Origin 1                                                                        
 
 Origin 2                                                                                                         |  Cropped 2 
 :---------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:
-![Example 2](https://github.com/AbdelrahmanRadwan/Intelligent-Scissors/blob/master/results/12.png  "Example 2")  |  ![Example 2](https://github.com/AbdelrahmanRadwan/Intelligent-Scissors/blob/master/results/13.png  "Example 2")
+![Example 2](https://github.com/AbdelrahmanRadwan/Intelligent-Scissors/blob/master/results/12.jpg  "Example 2")  |  ![Example 2](https://github.com/AbdelrahmanRadwan/Intelligent-Scissors/blob/master/results/13.png  "Example 2")
 
 Origin 3                                                                                                         |  Cropped 3 
 :---------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:
-![Example 3](https://github.com/AbdelrahmanRadwan/Intelligent-Scissors/blob/master/results/14.png  "Example 3")  |  ![Example 3](https://github.com/AbdelrahmanRadwan/Intelligent-Scissors/blob/master/results/15.png  "Example 3")
+![Example 3](https://github.com/AbdelrahmanRadwan/Intelligent-Scissors/blob/master/results/14.jpg  "Example 3")  |  ![Example 3](https://github.com/AbdelrahmanRadwan/Intelligent-Scissors/blob/master/results/15.png  "Example 3")
 
 

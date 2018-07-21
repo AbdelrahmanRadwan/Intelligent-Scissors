@@ -1,5 +1,0 @@
-E:\Study & Learn\Programming\TOP\My solution & projects\projects\Algorithms\IntelligentScissors\IntelligentScissors_project\IntelligentScissors\obj\Release\IntelligentScissors.csprojResolveAssemblyReference.cache
-E:\Study & Learn\Programming\TOP\My solution & projects\projects\Algorithms\IntelligentScissors\IntelligentScissors_project\IntelligentScissors\obj\Release\IntelligentScissors.CropedImage.resources
-E:\Study & Learn\Programming\TOP\My solution & projects\projects\Algorithms\IntelligentScissors\IntelligentScissors_project\IntelligentScissors\obj\Release\IntelligentScissors.MainForm.resources
-E:\Study & Learn\Programming\TOP\My solution & projects\projects\Algorithms\IntelligentScissors\IntelligentScissors_project\IntelligentScissors\obj\Release\IntelligentScissors.Properties.Resources.resources
-E:\Study & Learn\Programming\TOP\My solution & projects\projects\Algorithms\IntelligentScissors\IntelligentScissors_project\IntelligentScissors\obj\Release\IntelligentScissors.csproj.GenerateResource.Cache
